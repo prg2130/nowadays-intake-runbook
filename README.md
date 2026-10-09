@@ -2,6 +2,8 @@
 
 A small ops tool that turns a vague corporate-event request into a clean brief, a follow-up email, and an event runbook.
 
+**Live demo:** https://prg2130.github.io/nowadays-intake-runbook/ (click "Load vague sample")
+
 ## The problem
 
 Client requests arrive like this: *"An offsite for our leadership team in the spring, maybe 25-30 people, somewhere nice but not too far. Budget is flexible."*
